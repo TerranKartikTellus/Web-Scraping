@@ -1,7 +1,7 @@
 # Web-Scraping
 ## Get latest job postings from timesjobs.com
 ---
-###$ Instructions to execute 
+### $ Instructions to execute 
 
 ###### 1. Install dependencies  
 ```
@@ -14,11 +14,11 @@ pip install time
 ```python
 python main.py
 ```
-###$ Output
+### $ Output
 ###### 1. open /posts/saved.txt file
 
 ---
-###$ PythonCode
+### $ PythonCode
 
 ```python
 
