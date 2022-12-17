@@ -23,15 +23,15 @@ Location: Indore
 Skills: python  ,  linux  ,  windows  ,  sql
 Link: https://www.timesjobs.com/job-detail/python-developer-jobslo-consultants-indore-2-to-3-yrs-jobid-XP1detWpoa5zpSvf__PLUS__uAgZw==&source=srp
 
-Company: appy pie
-Location: Noida/Greater Noida
-Skills: python  ,  django  ,  html5  ,  javascript
-Link: https://www.timesjobs.com/job-detail/python-developer-appy-pie-noida-greater-noida-1-to-2-yrs-jobid-asjc2D3v35JzpSvf__PLUS__uAgZw==&source=srp
-
 Company: APPLYCUP HIRING SOLUTIONS LLP
 Location: Surat
 Skills: python   ,  Django  ,   Object Relational Mapper
 Link: https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-surat-3-to-5-yrs-jobid-uj9JLhqjw6dzpSvf__PLUS__uAgZw==&source=srp
+
+Company: appy pie
+Location: Noida/Greater Noida
+Skills: python  ,  django  ,  html5  ,  javascript
+Link: https://www.timesjobs.com/job-detail/python-developer-appy-pie-noida-greater-noida-1-to-2-yrs-jobid-asjc2D3v35JzpSvf__PLUS__uAgZw==&source=srp
 
 Company: TandA HR Solutions
 Location: Mohali,  Chandigarh
