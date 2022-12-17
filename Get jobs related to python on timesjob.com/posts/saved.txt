@@ -1,0 +1,126 @@
+Company: Surya Informatics Solutions Pvt. Ltd.
+Location: Chennai
+Skills: python  ,  web technologies  ,  linux  ,  mobile  ,  mysql  ,  angularjs  ,  javascript
+Link: https://www.timesjobs.com/job-detail/python-surya-informatics-solutions-pvt-ltd-chennai-0-to-3-yrs-jobid-UVlLes58wutzpSvf__PLUS__uAgZw==&source=srp
+
+Company: Ivan Infotech Pvt. Ltd.
+Location: Kolkata
+Skills: rest  ,  python  ,  security  ,  debugging
+Link: https://www.timesjobs.com/job-detail/python-developer-ivan-infotech-pvt-ltd-kolkata-2-to-5-yrs-jobid-1h6sLaqbaBZzpSvf__PLUS__uAgZw==&source=srp
+
+Company: TandA HR Solutions
+Location: Gurgaon,  Chandigarh
+Skills: python  ,  git  ,  django
+Link: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-chandigarh-4-to-6-yrs-jobid-2OM9xzKEDx5zpSvf__PLUS__uAgZw==&source=srp
+
+Company: east india securities ltd.
+Location: Kolkata
+Skills: python  ,  hadoop  ,  machine learning
+Link: https://www.timesjobs.com/job-detail/python-engineer-east-india-securities-ltd-kolkata-2-to-5-yrs-jobid-KEkE19WqPbFzpSvf__PLUS__uAgZw==&source=srp
+
+Company: JobsLo Consultants
+Location: Indore
+Skills: python  ,  linux  ,  windows  ,  sql
+Link: https://www.timesjobs.com/job-detail/python-developer-jobslo-consultants-indore-2-to-3-yrs-jobid-XP1detWpoa5zpSvf__PLUS__uAgZw==&source=srp
+
+Company: appy pie
+Location: Noida/Greater Noida
+Skills: python  ,  django  ,  html5  ,  javascript
+Link: https://www.timesjobs.com/job-detail/python-developer-appy-pie-noida-greater-noida-1-to-2-yrs-jobid-asjc2D3v35JzpSvf__PLUS__uAgZw==&source=srp
+
+Company: APPLYCUP HIRING SOLUTIONS LLP
+Location: Surat
+Skills: python   ,  Django  ,   Object Relational Mapper
+Link: https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-surat-3-to-5-yrs-jobid-uj9JLhqjw6dzpSvf__PLUS__uAgZw==&source=srp
+
+Company: TandA HR Solutions
+Location: Mohali,  Chandigarh
+Skills: Python  ,   Django  ,   Flask
+Link: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-mohali-chandigarh-3-to-6-yrs-jobid-hyDozRehVidzpSvf__PLUS__uAgZw==&source=srp
+
+Company: art technology and software india pvt ltd
+Location: Cochin/ Kochi/ Ernakulam
+Skills: rest  ,  python  ,  database  ,  django  ,  api
+Link: https://www.timesjobs.com/job-detail/python-developer-art-technology-and-software-india-pvt-ltd-cochin-kochi-ernakulam-2-to-3-yrs-jobid-M26lxDEd__PLUS__qtzpSvf__PLUS__uAgZw==&source=srp
+
+Company: sjain ventures
+Location: Raipur
+Skills: python  ,  web developer  ,  web services
+Link: https://www.timesjobs.com/job-detail/python-intern-sjain-ventures-raipur-0-to-3-yrs-jobid-KmspiL9__SLASH__D9hzpSvf__PLUS__uAgZw==&source=srp
+
+Company: systango
+Location: Indore
+Skills: python  ,  django  ,  javascript  ,  web programming
+Link: https://www.timesjobs.com/job-detail/python-developer-systango-indore-5-to-8-yrs-jobid-YtDomXdajg5zpSvf__PLUS__uAgZw==&source=srp
+
+Company: Route Mobile Limited
+Location: Mumbai
+Skills: python  ,  django  ,  postgresql  ,  mysql  ,  docker
+Link: https://www.timesjobs.com/job-detail/python-developers-route-mobile-limited-mumbai-2-to-3-yrs-jobid-XPaQ1HLdzlFzpSvf__PLUS__uAgZw==&source=srp
+
+Company: Polaris Consulting & Services Ltd
+Location: Bengaluru / Bangalore
+Skills: python  ,  django  ,  apache  ,  devops
+Link: https://www.timesjobs.com/job-detail/python-devops-polaris-consulting-services-ltd-bengaluru-bangalore-0-to-3-yrs-jobid-ksmR1q1a555zpSvf__PLUS__uAgZw==&source=srp
+
+Company: ons interactive solutions pvt ltd
+Location: Noida/Greater Noida
+Skills: python  ,  django  ,  html5  ,  javascript
+Link: https://www.timesjobs.com/job-detail/python-developer-ons-interactive-solutions-pvt-ltd-noida-greater-noida-1-to-2-yrs-jobid-98qJVGkOb6lzpSvf__PLUS__uAgZw==&source=srp
+
+Company: APPLYCUP HIRING SOLUTIONS LLP
+Location: Pune
+Skills: python  ,  web technologies  ,  web technologies
+Link: https://www.timesjobs.com/job-detail/python-trainer-applycup-hiring-solutions-llp-pune-4-to-6-yrs-jobid-3V1Biww1YVJzpSvf__PLUS__uAgZw==&source=srp
+
+Company: APPLYCUP HIRING SOLUTIONS LLP
+Location: Gurgaon,  Delhi,  Delhi/NCR
+Skills: python  ,  django  ,  html5  ,  javascript
+Link: https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-gurgaon-delhi-delhi-ncr-2-to-15-yrs-jobid-FHYQtX1BOyxzpSvf__PLUS__uAgZw==&source=srp
+
+Company: APPLYCUP HIRING SOLUTIONS LLP
+Location: Gandhinagar
+Skills: python  ,  django  ,  html5  ,  javascript
+Link: https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-gandhinagar-2-to-4-yrs-jobid-t8Ti7DllljpzpSvf__PLUS__uAgZw==&source=srp
+
+Company: DREAMAJAX TECHNOLOGIES
+Location: Bengaluru / Bangalore
+Skills: python  ,  django  ,  api  ,  sql  ,  nosql
+Link: https://www.timesjobs.com/job-detail/python-developer-dreamajax-technologies-bengaluru-bangalore-4-to-7-yrs-jobid-EWIVCDzRLKBzpSvf__PLUS__uAgZw==&source=srp
+
+Company: Anantha Cyber Tech Pvt Limited
+Location: Hyderabad/Secunderabad
+Skills: python  ,  c    ,  c  ,  information technology
+Link: https://www.timesjobs.com/job-detail/python-developer-anantha-cyber-tech-pvt-limited-hyderabad-secunderabad-3-to-6-yrs-jobid-QF9wZ4AGuzlzpSvf__PLUS__uAgZw==&source=srp
+
+Company: Intellectyx
+Location: Coimbatore
+Skills: python  ,  mobile  ,  javascript  ,  react.js  ,  django
+Link: https://www.timesjobs.com/job-detail/python-developer-intellectyx-coimbatore-3-to-6-yrs-jobid-T9fIstIoLIRzpSvf__PLUS__uAgZw==&source=srp
+
+Company: WHITE FORCE
+Location: Gurgaon
+Skills: algorithms  ,  python  ,  mobile  ,  machine learning  ,  ds  ,  mongodb
+Link: https://www.timesjobs.com/job-detail/python-developer-white-force-gurgaon-8-to-11-yrs-jobid-bRMODLEzGeVzpSvf__PLUS__uAgZw==&source=srp
+
+Company: INFINITY GROUP
+Location: Noida/Greater Noida
+Skills: python  ,  css  ,  django  ,  html  ,  bootstrap
+Link: https://www.timesjobs.com/job-detail/python-developer-infinity-group-noida-greater-noida-2-to-5-yrs-jobid-efOg3e9X__SLASH__D9zpSvf__PLUS__uAgZw==&source=srp
+
+Company: Saraca Solutions Pvt ltd
+Location: 
+Skills: python  ,  html5  ,  javascript  ,  security  ,  django  ,  debugging
+Link: https://www.timesjobs.com/job-detail/python-developer-saraca-solutions-pvt-ltd-0-to-3-yrs-jobid-60cl2kbYqWJzpSvf__PLUS__uAgZw==&source=srp
+
+Company: E FRIEND TECHNOLOGIES
+     
+Location: Indore
+Skills: python  ,  django  ,  Css
+Link: https://www.timesjobs.com/job-detail/python-developer-e-friend-technologies-indore-1-to-4-yrs-jobid-iKMLhGg__PLUS__1txzpSvf__PLUS__uAgZw==&source=srp
+
+Company: route mobile ltd
+Location: Mumbai
+Skills: python  ,  django  ,  postgresql  ,  mysql  ,  docker
+Link: https://www.timesjobs.com/job-detail/python-developers-route-mobile-ltd-mumbai-2-to-3-yrs-jobid-1hbXkUBjEZVzpSvf__PLUS__uAgZw==&source=srp
+
